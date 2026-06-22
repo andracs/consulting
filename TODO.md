@@ -3,6 +3,9 @@
 Denne liste gælder kun consulting-hjemmesiden på `andracs.github.io/consulting/`.
 Almindelige personlige todos hører ikke hjemme her.
 
+Mail https://tuta.com/ 
+Formular https://my.liberaforms.org/
+
 ## Næste forbedringer
 
 - [ ] Bedre billede
