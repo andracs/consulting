@@ -1,10 +1,7 @@
 # Hjemmeside TODO
-
-Denne liste gælder kun consulting-hjemmesiden på `andracs.github.io/consulting/`.
-Almindelige personlige todos hører ikke hjemme her.
-
 Mail https://tuta.com/ 
 Formular https://my.liberaforms.org/
+WEBINAR AFHOLDES PÅ ZOOM 
 
 ## Næste forbedringer
 
